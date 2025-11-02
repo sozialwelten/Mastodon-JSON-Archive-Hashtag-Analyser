@@ -160,8 +160,7 @@ nature,128
 
 ## Lizenz
 
-Dieses Tool ist Open Source und kann frei verwendet werden.
-
+GPL-3.0
 ## Autor
 
 Michael Karbacher
