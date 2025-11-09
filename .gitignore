@@ -3,6 +3,7 @@
 archive/
 mastodon-archive/
 outbox.json
+archive.json
 
 # CSV Export Dateien
 *.csv
